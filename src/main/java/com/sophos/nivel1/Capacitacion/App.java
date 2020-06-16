@@ -21,9 +21,10 @@ public class App
         System.out.println(variableCasteoByte);
         
         char [] arregloChar = {'J', 'o', 'h', 'n' };
-        for (int i = 0; i < arregloChar.length; i++);
+        for (int i = 0; i < arregloChar.length; i++)
+        {
         int x = (int) arregloChar[i]+1;
-        
+        }
         System.out.println(arregloChar);
     }
 
